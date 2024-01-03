@@ -1,5 +1,7 @@
 # Vijay RS
 
+![Purple Pink Modern Programmer LinkedIn Banner (4)](https://github.com/V-R-7/vijay-rs/assets/62888693/5ccacb01-81ed-4cf2-95ce-1fbb74076148)
+
 Hi 👋, I'm Vijay R
 
 # 💫 About Me:
