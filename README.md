@@ -1,11 +1,11 @@
 # Vijay RS
 
-![Purple Pink Modern Programmer LinkedIn Banner (4)](https://github.com/V-R-7/vijay-rs/assets/62888693/5ccacb01-81ed-4cf2-95ce-1fbb74076148)
+![Vijay R Skillsets](https://github.com/V-R-7/V-R-7/assets/62888693/40d8566d-0c0c-43a6-9ac5-8e558233de59)
 
 Hi 👋, I'm Vijay
 
 # 💫 About Me:
-🔭 I’m currently working on Centrico India<br>💼 3+ Years of Experience in Outsystems, 4x Outsystem Certified.<br>🌱 I’m currently learning Cloud - AWS, Linux Shell scripting & Java, Spring and Spring boot. <br>📫 Reach me via mail id : vijayr7.dev@gmail.com <br>
+🔭 I’m currently working on Centrico India<br>💼 3+ Years of Experience in Outsystems, 4x Outsystem Certified.<br>🌱 I’m currently learning Cloud - AWS, Linux Shell scripting & Java 8, Spring and Spring Boot. <br>📫 Reach me via mail id : vijayr7.dev@gmail.com <br>
 
 
 ## 🌐 Socials:
